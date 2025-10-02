@@ -1,0 +1,24 @@
+Componente que pergunta ao usuário o número de elementos
+
+Com o número x de elementos informados, faça duas grades de x elementos por x elementos
+
+Em cada célula desses grids permita que o usuário issira um valor manualmente
+
+Uma das tabelas deve representar os relacionamentos do grafo
+e a outra os pesos de cada um
+
+**PLUS - Biblioteca pra visualizar o grafo
+
+
+// LIBS
+clsx
+@radix-ui/react-toast
+@radix-ui/react-dialog
+@radix-ui/react-label
+@radix-ui/react-separator
+tailwind-merge
+tailwindcss-animate
+cytoscape
+cytoscape-dagre
+class-variance-authority
+lucide-react
