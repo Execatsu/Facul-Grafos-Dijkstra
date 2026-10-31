@@ -20,16 +20,17 @@ O sistema foi criado para facilitar a compreensão dos conceitos teóricos estud
 
 ## Tecnologias Utilizadas
 
-* **Linguagem:** JavaScript/React
-* **Interface Gráfica (GUI):** React
-* **Estruturas de Dados:** Grafos, Listas de Adjacência, Filas de Prioridade (Heap).
+* **React** (com Vite / Create React App)
+* **Cytoscape.js** (para renderização e manipulação do grafo)
+* **PrimeReact** (biblioteca de componentes de UI)
+* **Tailwind CSS** (estilização)
+* **React Router DOM** (gerenciamento de rotas)
 
 ---
 
 ## Pré-requisitos
 
-Certifique-se de ter instalado em sua máquina:
-* Node.js
+Certifique-se de ter o **Node.js** e o **npm** (ou yarn) instalados em sua máquina.
 
 ---
 
@@ -49,8 +50,9 @@ Certifique-se de ter instalado em sua máquina:
    ```
 4. Execute a aplicação:
    ```bash
-   npm run
+   npm run dev
    ```
+   (ou *npm start*, dependendo de como configurou o projeto)
 
 ---
 
