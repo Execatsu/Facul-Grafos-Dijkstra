@@ -38,11 +38,11 @@ Certifique-se de ter o **Node.js** e o **npm** (ou yarn) instalados em sua máqu
 
 1. **Clone este repositório:**
    ```bash
-   git clone [https://github.com/Execatsu/Facul-GrafosDijkstra.git](https://github.com/Execatsu/Facul-GrafosDijkstra.git)
+   git clone [https://github.com/Execatsu/Facul-GrafosDijkstra.git](https://github.com/Execatsu/Facul-Grafos-Dijkstra.git)
    ```
 2. **Acesse a pasta do projeto:**
    ```bash
-   cd Facul-GrafosDijkstra
+   cd Facul-Grafos-Dijkstra
    ```
 3. **Instale as dependências:**
    ```bash
